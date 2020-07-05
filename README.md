@@ -6,14 +6,14 @@ Desafio n°8 do bootcamp GoStack, onde tivemos que desenvolver um front-end mobi
 
 - Listar todos os produtos retornados de uma fake API.
 - Incluir e remover produtos no carrinho.
-- Alterar a quantidade a comprar na tela do carrinho.
+- Alterar a quantidade à comprar na tela do carrinho.
 
 ### Utilizado:
 
-- React Native
-- react-native-vector-icons: para colocar ícones nos botões.
-- Axios: para realizar a conexão com um back-end fake. (Um arquivo JSON com dados de produtos)
-- Android Studio e dependências: para utilizar um emulador e rodar o app nele.
+- **React Native**
+- **react-native-vector-icons**: para colocar ícones nos botões.
+- **Axios**: para realizar a conexão com um back-end fake. (Um arquivo JSON com dados de produtos)
+- **Android Studio e dependências**: para utilizar um emulador Android.
 
 ## Para utilizar em sua máquina:
 
